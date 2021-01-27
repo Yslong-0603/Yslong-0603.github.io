@@ -118,7 +118,6 @@ author:
 
 # Reading Files
 include:
-  - files
   - README
 exclude:
   - "*.sublime-project"
