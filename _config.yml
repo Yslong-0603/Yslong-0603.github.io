@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Shilong Yuan"
-  avatar           : "https://github.com/Yslong-0603/Yslong-0603.github.io/blob/master/IMG_6120.JPG"
+  avatar           : ![image](https://github.com/Yslong-0603/Yslong-0603.github.io/blob/master/IMG_6120.JPG)
   bio              : "Scholar"
   location         : "Hengyang City，Hunan province"
   employer         :
