@@ -1,6 +1,6 @@
-# Personal details
+
 ### Name :Shilong Yuan
-### Education :bachelor degree
+### Education :Bachelor degree
 ### Phone-number :112233344
 
 # Achievement
